@@ -74,16 +74,6 @@ AWS (Lambda, S3, Neptune)  •  Render  •  Git  •  Docker
 - 🇫🇷 **French** — Proficient
 
 ---
-
-## 🚀 What I'm Working On
-
-- 🧪 Researching novel approaches to **natural language understanding**
-- 🤖 Building ML models that bridge the gap between **narrow AI and AGI**
-- 💡 Exploring **autonomous learning systems** and self-improving algorithms
-- 🌟 Contributing to projects that democratize AI technology
-
----
-
 ## 📫 Let's Connect!
 
 I'm always excited to collaborate on innovative projects, discuss AI research, or explore new opportunities!
