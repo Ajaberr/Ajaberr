@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi 👋, I'm Ahmed Jaber  
+AI/ML Researcher
 
-<!--
-**Ajaberr/Ajaberr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 About Me  
+🎯 Columbia University student passionate about building intelligent systems that blend AI, engineering, and human-centered design. Experienced in developing machine learning models, web applications, and automation tools that create real-world impact. Deeply interested in NLP research, particularly in advancing artificial general intelligence (AGI) and exploring how models can reason, adapt, and learn autonomously.
 
-Here are some ideas to get you started:
+🎓 B.S. in Computer Science, Columbia University in the City of New York — Expected Graduation: May 2028  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills & Technologies  
+
+💻 Languages  
+Python • JavaScript • C • C++ • HTML5 • CSS • Bash  
+
+⚙️ Frameworks & Tools  
+ReactJS • TensorFlow • PyTorch • OpenCV • Scikit-Learn • Pandas • NumPy • LangChain • Google Cloud Vision API  
+
+🗃️ Databases  
+Weaviate • Firebase • MongoDB • ChromaDB • **Amazon S3**  
+
+🌐 Languages  
+English • Arabic (Darija) • French  
+
+📫 Contact  
+💼 LinkedIn: [Ahmed Jaber](https://www.linkedin.com/in/ajaber)  
+📧 Email: amj2234@columbia.edu  
+
