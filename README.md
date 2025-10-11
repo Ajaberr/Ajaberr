@@ -38,27 +38,37 @@ I'm a passionate **Computer Science student at Columbia University** with a deep
 
 ### 💻 Programming Languages
 ```
-Python  •  JavaScript  •  C  •  C++  •  HTML5  •  CSS  •  Bash
+Python (4 Years)  •  Arduino C++ (3 Years)  •  JavaScript (3 Years)  •  Java (1 Year)
 ```
 
-### ⚙️ Frameworks & Libraries
+### 🌐 Web & Backend
 <div align="center">
 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+**Additional Tools:** Stripe API
+
+### 🤖 Data & Machine Learning
+<div align="center">
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 </div>
 
-**Additional Tools:** LangChain • Google Cloud Vision API
+**Specialized Tools:** Langchain • Matplotlib • Neo4j • Sentence-BERT
 
-### 🗃️ Databases & Storage
+### ☁️ Cloud & DevOps
 ```
-Weaviate  •  Firebase  •  MongoDB  •  ChromaDB  •  Amazon S3
+AWS (Lambda, S3, Neptune)  •  Render  •  Git  •  Docker
 ```
 
 ### 🌐 Languages
@@ -92,8 +102,8 @@ I'm always excited to collaborate on innovative projects, discuss AI research, o
 
 <div align="center">
 
-*"The best way to predict the future is to invent it."* — Alan Kay
 
-⭐️ From [Ahmed Jaber](https://github.com/yourusername)
+
+⭐️ From [Ahmed Jaber](https://github.com/Ajaberr)
 
 </div>
