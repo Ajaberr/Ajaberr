@@ -21,9 +21,6 @@ I'm a passionate **Computer Science student at Columbia University** with a deep
 - 🛠️ **ML Engineering** — Developing robust machine learning models for complex problems
 - 🌐 **Full-Stack Development** — Creating intelligent web applications with modern frameworks
 - ⚡ **Automation** — Building tools that streamline workflows and enhance productivity
-
-> *Driven by the vision of AI systems that can reason, adapt, and learn autonomously*
-
 ---
 
 ## 🎓 Education
