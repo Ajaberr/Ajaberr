@@ -27,7 +27,7 @@ I'm a passionate **Computer Science student at Columbia University** with a deep
 
 **Columbia University in the City of New York** 🦁  
 *Bachelor of Science in Computer Science*  
-📅 Expected Graduation: May 2028
+
 
 ---
 
