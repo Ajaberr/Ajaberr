@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Ahmed Jaber
+#  Hi, I'm Ahmed Jaber
 
 <div align="center">
   
-### 🤖 AI/ML Researcher | 🎓 Columbia University
+###  AI/ML Researcher | Columbia University
 
 *Building intelligent systems at the intersection of AI, engineering, and human-centered design*
 
@@ -13,17 +13,17 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I'm a passionate **Computer Science student at Columbia University** with a deep focus on advancing **artificial intelligence** and building systems that make a real-world impact. My work spans across:
 
-- 🔬 **NLP Research** — Exploring paths toward AGI through autonomous reasoning and adaptive learning
-- 🛠️ **ML Engineering** — Developing robust machine learning models for complex problems
-- 🌐 **Full-Stack Development** — Creating intelligent web applications with modern frameworks
-- ⚡ **Automation** — Building tools that streamline workflows and enhance productivity
+-  **NLP Research** — Exploring paths toward AGI through autonomous reasoning and adaptive learning
+-  **ML Engineering** — Developing robust machine learning models for complex problems
+-  **Full-Stack Development** — Creating intelligent web applications with modern frameworks
+-  **Automation** — Building tools that streamline workflows and enhance productivity
 ---
 
-## 🎓 Education
+## Education
 
 **Columbia University in the City of New York** 🦁  
 *Bachelor of Science in Computer Science*  
@@ -31,11 +31,11 @@ I'm a passionate **Computer Science student at Columbia University** with a deep
 
 ---
 
-## 🛠️ Technical Arsenal
+##  Technical Arsenal
 
-### 💻 Programming Languages
+###  Programming Languages
 ```
-Python (4 Years)  •  Arduino C++ (3 Years)  •  JavaScript (3 Years)  •  Java (1 Year)
+Python  •  Arduino C++   •  JavaScript   •  Java •  C 
 ```
 
 ### 🌐 Web & Backend
@@ -52,7 +52,7 @@ Python (4 Years)  •  Arduino C++ (3 Years)  •  JavaScript (3 Years)  •  Ja
 
 **Additional Tools:** Stripe API
 
-### 🤖 Data & Machine Learning
+### Data & Machine Learning
 <div align="center">
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -63,25 +63,25 @@ Python (4 Years)  •  Arduino C++ (3 Years)  •  JavaScript (3 Years)  •  Ja
 
 **Specialized Tools:** Langchain • Matplotlib • Neo4j • Sentence-BERT
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 ```
 AWS (Lambda, S3, Neptune)  •  Render  •  Git  •  Docker
 ```
 
-### 🌐 Languages
+### Languages
 - 🇺🇸 **English** — Fluent
 - 🇲🇦 **Arabic (Darija)** — Native
 - 🇫🇷 **French** — Proficient
 
 ---
-## 📫 Let's Connect!
+##  Let's Connect!
 
 I'm always excited to collaborate on innovative projects, discuss AI research, or explore new opportunities!
 
 <div align="center">
 
-📧 **Email:** [amj2234@columbia.edu](mailto:amj2234@columbia.edu)  
-💼 **LinkedIn:** [linkedin.com/in/ajaber](https://www.linkedin.com/in/ajaber)
+ **Email:** [amj2234@columbia.edu](mailto:amj2234@columbia.edu)  
+**LinkedIn:** [linkedin.com/in/ajaber](https://www.linkedin.com/in/ajaber)
 
 </div>
 
@@ -91,6 +91,6 @@ I'm always excited to collaborate on innovative projects, discuss AI research, o
 
 
 
-⭐️ From [Ahmed Jaber](https://github.com/Ajaberr)
+ From [Ahmed Jaber](https://github.com/Ajaberr)
 
 </div>
