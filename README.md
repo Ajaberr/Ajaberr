@@ -25,7 +25,7 @@ I'm a passionate **Computer Science student at Columbia University** with a deep
 
 ## Education
 
-**Columbia University in the City of New York** 🦁  
+**Columbia University in the City of New York**   
 *Bachelor of Science in Computer Science*  
 
 
@@ -38,7 +38,7 @@ I'm a passionate **Computer Science student at Columbia University** with a deep
 Python  •  Arduino C++   •  JavaScript   •  Java •  C 
 ```
 
-### 🌐 Web & Backend
+###  Web & Backend
 <div align="center">
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
